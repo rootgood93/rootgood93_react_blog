@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rootgood93_react_blog/static/css/main.13a209b4.css",
+    "main.js": "/rootgood93_react_blog/static/js/main.5c4919df.js",
+    "static/js/787.f5d536ff.chunk.js": "/rootgood93_react_blog/static/js/787.f5d536ff.chunk.js",
+    "index.html": "/rootgood93_react_blog/index.html",
+    "main.13a209b4.css.map": "/rootgood93_react_blog/static/css/main.13a209b4.css.map",
+    "main.5c4919df.js.map": "/rootgood93_react_blog/static/js/main.5c4919df.js.map",
+    "787.f5d536ff.chunk.js.map": "/rootgood93_react_blog/static/js/787.f5d536ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a209b4.css",
+    "static/js/main.5c4919df.js"
+  ]
+}
